@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TryHackMe HTML Editor</title>
+    </head>
+    <body>
+        <h1>Cat Website!</h1>
+        <p>See images of all my cats!</p>
+        <img src='img/cat-1.jpg'>
+        <img src='img/cat-2.jpg'>
+        <img src='img/dog-1.png'>
+    </body>
+</html>
